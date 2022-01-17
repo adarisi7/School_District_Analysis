@@ -5,7 +5,11 @@ The purpose of this analysis is to help Maria who works for a school district sy
 
 ### Results
 The district summary calculates the Total Schools,	Total Students,	Total Budget,	Average Math Score,	Average Reading Score,	% Passing Math,	% Passing Reading,	% Overall Passing, for all the data. The School summary consists of School Type, Total Students, Total School Budget,Per Student Budget,  Average Math Score, Average Reading Score,  % Passing Math, % Passing Reading,  % Overall Passing. Replacing the ninth graders’ math and reading scores for Thomas School affects the % Passing Math and % Passing Reading, as it makes it very low compared to other schools. The Average Math and Reading Score is around 83, which is average compared to other schools. It lowers the school spending and school size, and it has the opposite affect on the scores based on school type. The Overall Passing Percent was relatively similiar to all the other schools, and the total students was lower as well as the total budget. 
+![Screenshot!](https://github.com/adarisi7/School_District_Analysis/blob/50673c952c1733a91f5c1156c9a168c79a7ea032/Screen%20Shot%202022-01-16%20at%2012.22.26%20PM.png)
+
+![Screenshot!](https://github.com/adarisi7/School_District_Analysis/blob/50673c952c1733a91f5c1156c9a168c79a7ea032/Screen%20Shot%202022-01-16%20at%2012.22.01%20PM.png)
+
 
 ### Summary
 
-We can see that after the changes in the data the passing math and reading percentage substantially increased when the freshmen are not included in Thomas High School. This might be because they have trouble since it is their first year. 
+We can see that after the changes in the data the passing math and reading percentage substantially increased when the changes are applied. This is the case with the overall percentage as well. 
