@@ -12,4 +12,4 @@ The district summary calculates the Total Schools,	Total Students,	Total Budget,
 
 ### Summary
 
-We can see that after the changes in the data the passing math and reading percentage substantially increased when the changes are applied. This is the case with the overall percentage as well. 
+We can see that after the changes in the data the passing math and reading percentage substantially increased when the changes are applied. This is the case with the overall percentage as well as the spending. 
